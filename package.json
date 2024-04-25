@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "firebase-admin": "^11.10.1",
+    "papaparse": "^5.4.1"
+  }
+}
